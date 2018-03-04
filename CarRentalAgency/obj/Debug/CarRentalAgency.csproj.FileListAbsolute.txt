@@ -5,3 +5,10 @@ C:\git\csharp-intro\CarRentalAgency\obj\Debug\CarRentalAgency.csprojResolveAssem
 C:\git\csharp-intro\CarRentalAgency\obj\Debug\CarRentalAgency.csproj.CoreCompileInputs.cache
 C:\git\csharp-intro\CarRentalAgency\obj\Debug\CarRentalAgency.exe
 C:\git\csharp-intro\CarRentalAgency\obj\Debug\CarRentalAgency.pdb
+C:\git\car-rental\CarRentalAgency\obj\Debug\CarRentalAgency.csprojResolveAssemblyReference.cache
+C:\git\car-rental\CarRentalAgency\obj\Debug\CarRentalAgency.csproj.CoreCompileInputs.cache
+C:\git\car-rental\CarRentalAgency\obj\Debug\CarRentalAgency.exe
+C:\git\car-rental\CarRentalAgency\obj\Debug\CarRentalAgency.pdb
+C:\git\car-rental\CarRentalAgency\bin\Debug\CarRentalAgency.exe.config
+C:\git\car-rental\CarRentalAgency\bin\Debug\CarRentalAgency.exe
+C:\git\car-rental\CarRentalAgency\bin\Debug\CarRentalAgency.pdb

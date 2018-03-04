@@ -6,12 +6,13 @@ namespace CarRentalAgency
     class Program
     {
         static CarsManager carsManager;
-    
+        static CustomersManager customersManager;
+
 
         static void Main(string[] args)
         {
             carsManager = new CarsManager();
-            
+            customersManager = new CustomersManager();
 
             MainMenu();
         }
@@ -45,7 +46,7 @@ namespace CarRentalAgency
                             WaitForUserInput();
                             break;
                         case 3:
-                            rentalsManager.AddRental();
+                            //rentalsManager.AddRental();
                             WaitForUserInput();
                             break;
                         case 4:
