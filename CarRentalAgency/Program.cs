@@ -7,12 +7,13 @@ namespace CarRentalAgency
     {
         static CarsManager carsManager;
         static CustomersManager customersManager;
-
+        static RentalsManager rentalsManager;
 
         static void Main(string[] args)
         {
             carsManager = new CarsManager();
             customersManager = new CustomersManager();
+            rentalsManager = new RentalsManager();
 
             MainMenu();
         }
@@ -46,7 +47,7 @@ namespace CarRentalAgency
                             WaitForUserInput();
                             break;
                         case 3:
-                            //rentalsManager.AddRental();
+                            rentalsManager.AddRental();
                             WaitForUserInput();
                             break;
                         case 4:

@@ -62,7 +62,6 @@ namespace CarRentalAgency.Model
             this.depositFee = car.DepositFee;
             this.extraKmsFee = car.PricePerExtraKm;
             this.creditCardNumber = creditCardNumber;
-
             this.SetFee(car.PricePerDay);
 
             // The properties related to the end of the rental are set to as if the rental will end with the initial conditions as they cant be stored empty
