@@ -1,0 +1,6 @@
+C:\code\trainings\github\CsIntro\CsIntro\bin\Debug\CsIntro.exe.config
+C:\code\trainings\github\CsIntro\CsIntro\bin\Debug\CsIntro.exe
+C:\code\trainings\github\CsIntro\CsIntro\bin\Debug\CsIntro.pdb
+C:\code\trainings\github\CsIntro\CsIntro\obj\Debug\CsIntro.csprojResolveAssemblyReference.cache
+C:\code\trainings\github\CsIntro\CsIntro\obj\Debug\CsIntro.exe
+C:\code\trainings\github\CsIntro\CsIntro\obj\Debug\CsIntro.pdb
